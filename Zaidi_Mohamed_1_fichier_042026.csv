@@ -1,0 +1,823 @@
+﻿ANNEE;REGION;GENDER;AGE_GROUP;PATH_CATEGORY;NB_ETUDIANTS;POPULATION_INSEE_SEGMENT;NB_ETUDIANTS_ANNEE_TOTAL
+2022;Auvergne-Rhône-Alpes;F;25-29 ans;Data;2;227869;1382
+2022;Auvergne-Rhône-Alpes;F;30-34 ans;Data;8;252973;1382
+2022;Auvergne-Rhône-Alpes;F;35-39 ans;Data;4;265304;1382
+2022;Auvergne-Rhône-Alpes;F;40-44 ans;Data;3;263561;1382
+2022;Auvergne-Rhône-Alpes;F;45-49 ans;Data;3;261130;1382
+2022;Auvergne-Rhône-Alpes;F;50-54 ans;Data;2;271085;1382
+2022;Auvergne-Rhône-Alpes;F;55-59 ans;Data;1;266994;1382
+2022;Auvergne-Rhône-Alpes;F;60 ans ou plus;Data;1;1201312;1382
+2022;Auvergne-Rhône-Alpes;M;20-24 ans;Data;1;239255;1382
+2022;Auvergne-Rhône-Alpes;M;25-29 ans;Data;8;229782;1382
+2022;Auvergne-Rhône-Alpes;M;30-34 ans;Data;11;247295;1382
+2022;Auvergne-Rhône-Alpes;M;35-39 ans;Data;14;254980;1382
+2022;Auvergne-Rhône-Alpes;M;40-44 ans;Data;5;255076;1382
+2022;Auvergne-Rhône-Alpes;M;45-49 ans;Data;8;261532;1382
+2022;Auvergne-Rhône-Alpes;M;50-54 ans;Data;3;267934;1382
+2022;Auvergne-Rhône-Alpes;M;55-59 ans;Data;4;260661;1382
+2022;Auvergne-Rhône-Alpes;M;60 ans ou plus;Data;1;963910;1382
+2022;Auvergne-Rhône-Alpes;Non renseigne;25-29 ans;Data;11;;1382
+2022;Auvergne-Rhône-Alpes;Non renseigne;30-34 ans;Data;21;;1382
+2022;Auvergne-Rhône-Alpes;Non renseigne;35-39 ans;Data;12;;1382
+2022;Auvergne-Rhône-Alpes;Non renseigne;40-44 ans;Data;13;;1382
+2022;Auvergne-Rhône-Alpes;Non renseigne;45-49 ans;Data;4;;1382
+2022;Auvergne-Rhône-Alpes;Non renseigne;50-54 ans;Data;3;;1382
+2022;Auvergne-Rhône-Alpes;Non renseigne;60 ans ou plus;Data;1;;1382
+2022;Bourgogne-Franche-Comté;F;25-29 ans;Data;2;68487;1382
+2022;Bourgogne-Franche-Comté;F;30-34 ans;Data;1;76666;1382
+2022;Bourgogne-Franche-Comté;F;35-39 ans;Data;1;81864;1382
+2022;Bourgogne-Franche-Comté;M;25-29 ans;Data;3;71275;1382
+2022;Bourgogne-Franche-Comté;M;30-34 ans;Data;5;76158;1382
+2022;Bourgogne-Franche-Comté;M;45-49 ans;Data;2;86369;1382
+2022;Bourgogne-Franche-Comté;M;50-54 ans;Data;3;93561;1382
+2022;Bourgogne-Franche-Comté;Non renseigne;30-34 ans;Data;4;;1382
+2022;Bourgogne-Franche-Comté;Non renseigne;35-39 ans;Data;3;;1382
+2022;Bretagne;F;25-29 ans;Data;1;83474;1382
+2022;Bretagne;F;30-34 ans;Data;4;92960;1382
+2022;Bretagne;F;35-39 ans;Data;1;100341;1382
+2022;Bretagne;F;45-49 ans;Data;1;108917;1382
+2022;Bretagne;M;25-29 ans;Data;1;86968;1382
+2022;Bretagne;M;30-34 ans;Data;5;93119;1382
+2022;Bretagne;M;35-39 ans;Data;3;98865;1382
+2022;Bretagne;M;40-44 ans;Data;3;103643;1382
+2022;Bretagne;M;45-49 ans;Data;3;110035;1382
+2022;Bretagne;M;60 ans ou plus;Data;1;453105;1382
+2022;Bretagne;Non renseigne;25-29 ans;Data;2;;1382
+2022;Bretagne;Non renseigne;30-34 ans;Data;4;;1382
+2022;Bretagne;Non renseigne;35-39 ans;Data;3;;1382
+2022;Bretagne;Non renseigne;40-44 ans;Data;3;;1382
+2022;Bretagne;Non renseigne;45-49 ans;Data;2;;1382
+2022;Centre-Val de Loire;F;30-34 ans;Data;4;72900;1382
+2022;Centre-Val de Loire;M;20-24 ans;Data;2;68680;1382
+2022;Centre-Val de Loire;M;30-34 ans;Data;3;70117;1382
+2022;Centre-Val de Loire;M;35-39 ans;Data;6;73397;1382
+2022;Centre-Val de Loire;M;40-44 ans;Data;4;75290;1382
+2022;Centre-Val de Loire;M;45-49 ans;Data;1;80214;1382
+2022;Centre-Val de Loire;Non renseigne;25-29 ans;Data;2;;1382
+2022;Centre-Val de Loire;Non renseigne;30-34 ans;Data;5;;1382
+2022;Centre-Val de Loire;Non renseigne;35-39 ans;Data;5;;1382
+2022;Centre-Val de Loire;Non renseigne;60 ans ou plus;Data;1;;1382
+2022;DROM;F;40-44 ans;Data;1;;1382
+2022;DROM;F;45-49 ans;Data;1;;1382
+2022;DROM;M;30-34 ans;Data;3;;1382
+2022;DROM;M;35-39 ans;Data;1;;1382
+2022;DROM;M;40-44 ans;Data;1;;1382
+2022;DROM;M;45-49 ans;Data;2;;1382
+2022;DROM;M;50-54 ans;Data;1;;1382
+2022;DROM;Non renseigne;30-34 ans;Data;1;;1382
+2022;DROM;Non renseigne;40-44 ans;Data;1;;1382
+2022;Grand Est;F;25-29 ans;Data;1;151462;1382
+2022;Grand Est;F;30-34 ans;Data;4;168006;1382
+2022;Grand Est;F;35-39 ans;Data;3;175546;1382
+2022;Grand Est;F;40-44 ans;Data;2;173190;1382
+2022;Grand Est;F;45-49 ans;Data;1;175778;1382
+2022;Grand Est;F;55-59 ans;Data;1;193756;1382
+2022;Grand Est;M;20-24 ans;Data;1;165884;1382
+2022;Grand Est;M;25-29 ans;Data;5;156316;1382
+2022;Grand Est;M;30-34 ans;Data;7;166340;1382
+2022;Grand Est;M;35-39 ans;Data;10;170597;1382
+2022;Grand Est;M;40-44 ans;Data;6;170271;1382
+2022;Grand Est;M;45-49 ans;Data;1;174486;1382
+2022;Grand Est;M;50-54 ans;Data;1;185608;1382
+2022;Grand Est;M;55-59 ans;Data;2;187667;1382
+2022;Grand Est;M;60 ans ou plus;Data;1;691444;1382
+2022;Grand Est;Non renseigne;25-29 ans;Data;5;;1382
+2022;Grand Est;Non renseigne;30-34 ans;Data;9;;1382
+2022;Grand Est;Non renseigne;35-39 ans;Data;8;;1382
+2022;Grand Est;Non renseigne;40-44 ans;Data;6;;1382
+2022;Grand Est;Non renseigne;45-49 ans;Data;2;;1382
+2022;Grand Est;Non renseigne;50-54 ans;Data;2;;1382
+2022;Grand Est;Non renseigne;55-59 ans;Data;2;;1382
+2022;Hauts-de-France;F;25-29 ans;Data;1;167340;1382
+2022;Hauts-de-France;F;30-34 ans;Data;6;184679;1382
+2022;Hauts-de-France;F;35-39 ans;Data;9;194611;1382
+2022;Hauts-de-France;F;40-44 ans;Data;3;190967;1382
+2022;Hauts-de-France;F;50-54 ans;Data;1;194384;1382
+2022;Hauts-de-France;M;20-24 ans;Data;1;186248;1382
+2022;Hauts-de-France;M;25-29 ans;Data;1;167168;1382
+2022;Hauts-de-France;M;30-34 ans;Data;15;179837;1382
+2022;Hauts-de-France;M;35-39 ans;Data;2;188234;1382
+2022;Hauts-de-France;M;40-44 ans;Data;6;186844;1382
+2022;Hauts-de-France;M;45-49 ans;Data;3;190618;1382
+2022;Hauts-de-France;M;50-54 ans;Data;5;191932;1382
+2022;Hauts-de-France;M;60 ans ou plus;Data;2;658155;1382
+2022;Hauts-de-France;Non renseigne;20-24 ans;Data;1;;1382
+2022;Hauts-de-France;Non renseigne;25-29 ans;Data;7;;1382
+2022;Hauts-de-France;Non renseigne;30-34 ans;Data;7;;1382
+2022;Hauts-de-France;Non renseigne;35-39 ans;Data;4;;1382
+2022;Hauts-de-France;Non renseigne;40-44 ans;Data;7;;1382
+2022;Hauts-de-France;Non renseigne;45-49 ans;Data;4;;1382
+2022;Hauts-de-France;Non renseigne;50-54 ans;Data;3;;1382
+2022;Hauts-de-France;Non renseigne;55-59 ans;Data;2;;1382
+2022;Normandie;F;50-54 ans;Data;1;110009;1382
+2022;Normandie;M;25-29 ans;Data;3;86310;1382
+2022;Normandie;M;30-34 ans;Data;6;93536;1382
+2022;Normandie;M;35-39 ans;Data;3;98057;1382
+2022;Normandie;M;40-44 ans;Data;3;98210;1382
+2022;Normandie;M;45-49 ans;Data;1;101654;1382
+2022;Normandie;Non renseigne;25-29 ans;Data;4;;1382
+2022;Normandie;Non renseigne;30-34 ans;Data;3;;1382
+2022;Normandie;Non renseigne;35-39 ans;Data;2;;1382
+2022;Normandie;Non renseigne;40-44 ans;Data;1;;1382
+2022;Nouvelle-Aquitaine;F;25-29 ans;Data;1;150191;1382
+2022;Nouvelle-Aquitaine;F;30-34 ans;Data;1;169765;1382
+2022;Nouvelle-Aquitaine;F;35-39 ans;Data;3;180859;1382
+2022;Nouvelle-Aquitaine;F;40-44 ans;Data;5;189218;1382
+2022;Nouvelle-Aquitaine;F;45-49 ans;Data;2;198248;1382
+2022;Nouvelle-Aquitaine;F;50-54 ans;Data;2;209507;1382
+2022;Nouvelle-Aquitaine;F;55-59 ans;Data;1;213254;1382
+2022;Nouvelle-Aquitaine;M;25-29 ans;Data;5;150388;1382
+2022;Nouvelle-Aquitaine;M;30-34 ans;Data;11;164607;1382
+2022;Nouvelle-Aquitaine;M;35-39 ans;Data;8;173221;1382
+2022;Nouvelle-Aquitaine;M;40-44 ans;Data;6;182141;1382
+2022;Nouvelle-Aquitaine;M;45-49 ans;Data;2;192658;1382
+2022;Nouvelle-Aquitaine;M;50-54 ans;Data;2;201275;1382
+2022;Nouvelle-Aquitaine;M;55-59 ans;Data;1;201205;1382
+2022;Nouvelle-Aquitaine;M;60 ans ou plus;Data;1;855814;1382
+2022;Nouvelle-Aquitaine;Non renseigne;25-29 ans;Data;9;;1382
+2022;Nouvelle-Aquitaine;Non renseigne;30-34 ans;Data;7;;1382
+2022;Nouvelle-Aquitaine;Non renseigne;35-39 ans;Data;5;;1382
+2022;Nouvelle-Aquitaine;Non renseigne;40-44 ans;Data;6;;1382
+2022;Nouvelle-Aquitaine;Non renseigne;45-49 ans;Data;5;;1382
+2022;Nouvelle-Aquitaine;Non renseigne;50-54 ans;Data;3;;1382
+2022;Nouvelle-Aquitaine;Non renseigne;55-59 ans;Data;1;;1382
+2022;Nouvelle-Aquitaine;Non renseigne;60 ans ou plus;Data;2;;1382
+2022;Occitanie;F;25-29 ans;Data;1;159618;1382
+2022;Occitanie;F;30-34 ans;Data;4;176199;1382
+2022;Occitanie;F;35-39 ans;Data;2;184360;1382
+2022;Occitanie;F;40-44 ans;Data;3;190696;1382
+2022;Occitanie;F;55-59 ans;Data;1;208809;1382
+2022;Occitanie;M;20-24 ans;Data;2;173775;1382
+2022;Occitanie;M;25-29 ans;Data;9;161274;1382
+2022;Occitanie;M;30-34 ans;Data;11;169648;1382
+2022;Occitanie;M;35-39 ans;Data;11;175287;1382
+2022;Occitanie;M;40-44 ans;Data;4;182583;1382
+2022;Occitanie;M;45-49 ans;Data;2;185979;1382
+2022;Occitanie;M;55-59 ans;Data;2;196716;1382
+2022;Occitanie;M;60 ans ou plus;Data;1;812218;1382
+2022;Occitanie;Non renseigne;25-29 ans;Data;4;;1382
+2022;Occitanie;Non renseigne;30-34 ans;Data;15;;1382
+2022;Occitanie;Non renseigne;35-39 ans;Data;8;;1382
+2022;Occitanie;Non renseigne;40-44 ans;Data;6;;1382
+2022;Occitanie;Non renseigne;45-49 ans;Data;3;;1382
+2022;Occitanie;Non renseigne;50-54 ans;Data;1;;1382
+2022;Occitanie;Non renseigne;55-59 ans;Data;1;;1382
+2022;Occitanie;Non renseigne;60 ans ou plus;Data;2;;1382
+2022;Pays de la Loire;F;25-29 ans;Data;2;100624;1382
+2022;Pays de la Loire;F;30-34 ans;Data;1;111621;1382
+2022;Pays de la Loire;F;35-39 ans;Data;1;119787;1382
+2022;Pays de la Loire;F;40-44 ans;Data;3;122673;1382
+2022;Pays de la Loire;F;45-49 ans;Data;2;124709;1382
+2022;Pays de la Loire;F;50-54 ans;Data;1;125881;1382
+2022;Pays de la Loire;M;25-29 ans;Data;1;102069;1382
+2022;Pays de la Loire;M;30-34 ans;Data;5;111092;1382
+2022;Pays de la Loire;M;35-39 ans;Data;7;116874;1382
+2022;Pays de la Loire;M;45-49 ans;Data;2;125732;1382
+2022;Pays de la Loire;M;50-54 ans;Data;1;125268;1382
+2022;Pays de la Loire;M;55-59 ans;Data;1;120546;1382
+2022;Pays de la Loire;Non renseigne;25-29 ans;Data;4;;1382
+2022;Pays de la Loire;Non renseigne;30-34 ans;Data;5;;1382
+2022;Pays de la Loire;Non renseigne;35-39 ans;Data;5;;1382
+2022;Pays de la Loire;Non renseigne;40-44 ans;Data;5;;1382
+2022;Pays de la Loire;Non renseigne;45-49 ans;Data;2;;1382
+2022;Pays de la Loire;Non renseigne;50-54 ans;Data;4;;1382
+2022;Provence-Alpes-Côte d'Azur;F;25-29 ans;Data;3;133189;1382
+2022;Provence-Alpes-Côte d'Azur;F;35-39 ans;Data;1;161490;1382
+2022;Provence-Alpes-Côte d'Azur;F;40-44 ans;Data;3;163862;1382
+2022;Provence-Alpes-Côte d'Azur;F;45-49 ans;Data;1;165283;1382
+2022;Provence-Alpes-Côte d'Azur;F;50-54 ans;Data;1;177411;1382
+2022;Provence-Alpes-Côte d'Azur;F;55-59 ans;Data;1;183572;1382
+2022;Provence-Alpes-Côte d'Azur;M;25-29 ans;Data;1;130652;1382
+2022;Provence-Alpes-Côte d'Azur;M;30-34 ans;Data;12;144254;1382
+2022;Provence-Alpes-Côte d'Azur;M;35-39 ans;Data;6;149106;1382
+2022;Provence-Alpes-Côte d'Azur;M;40-44 ans;Data;6;154003;1382
+2022;Provence-Alpes-Côte d'Azur;M;45-49 ans;Data;4;157331;1382
+2022;Provence-Alpes-Côte d'Azur;M;50-54 ans;Data;1;166314;1382
+2022;Provence-Alpes-Côte d'Azur;M;55-59 ans;Data;1;168350;1382
+2022;Provence-Alpes-Côte d'Azur;M;60 ans ou plus;Data;1;686518;1382
+2022;Provence-Alpes-Côte d'Azur;Non renseigne;25-29 ans;Data;6;;1382
+2022;Provence-Alpes-Côte d'Azur;Non renseigne;30-34 ans;Data;11;;1382
+2022;Provence-Alpes-Côte d'Azur;Non renseigne;35-39 ans;Data;5;;1382
+2022;Provence-Alpes-Côte d'Azur;Non renseigne;40-44 ans;Data;7;;1382
+2022;Provence-Alpes-Côte d'Azur;Non renseigne;45-49 ans;Data;4;;1382
+2022;Provence-Alpes-Côte d'Azur;Non renseigne;50-54 ans;Data;2;;1382
+2022;Provence-Alpes-Côte d'Azur;Non renseigne;55-59 ans;Data;1;;1382
+2022;Provence-Alpes-Côte d'Azur;Non renseigne;60 ans ou plus;Data;1;;1382
+2022;Île-de-France;F;20-24 ans;Data;4;422554;1382
+2022;Île-de-France;F;25-29 ans;Data;8;438011;1382
+2022;Île-de-France;F;30-34 ans;Data;24;465599;1382
+2022;Île-de-France;F;35-39 ans;Data;25;450961;1382
+2022;Île-de-France;F;40-44 ans;Data;29;434771;1382
+2022;Île-de-France;F;45-49 ans;Data;13;414197;1382
+2022;Île-de-France;F;50-54 ans;Data;3;403221;1382
+2022;Île-de-France;F;55-59 ans;Data;5;393487;1382
+2022;Île-de-France;F;60 ans ou plus;Data;1;1452302;1382
+2022;Île-de-France;M;20-24 ans;Data;1;410020;1382
+2022;Île-de-France;M;25-29 ans;Data;30;415647;1382
+2022;Île-de-France;M;30-34 ans;Data;54;436749;1382
+2022;Île-de-France;M;35-39 ans;Data;42;418794;1382
+2022;Île-de-France;M;40-44 ans;Data;35;413734;1382
+2022;Île-de-France;M;45-49 ans;Data;20;411669;1382
+2022;Île-de-France;M;50-54 ans;Data;17;387897;1382
+2022;Île-de-France;M;55-59 ans;Data;11;369531;1382
+2022;Île-de-France;M;60 ans ou plus;Data;8;1142183;1382
+2022;Île-de-France;Non renseigne;20-24 ans;Data;4;;1382
+2022;Île-de-France;Non renseigne;25-29 ans;Data;58;;1382
+2022;Île-de-France;Non renseigne;30-34 ans;Data;82;;1382
+2022;Île-de-France;Non renseigne;35-39 ans;Data;55;;1382
+2022;Île-de-France;Non renseigne;40-44 ans;Data;37;;1382
+2022;Île-de-France;Non renseigne;45-49 ans;Data;19;;1382
+2022;Île-de-France;Non renseigne;50-54 ans;Data;19;;1382
+2022;Île-de-France;Non renseigne;55-59 ans;Data;8;;1382
+2022;Île-de-France;Non renseigne;60 ans ou plus;Data;10;;1382
+2023;Auvergne-Rhône-Alpes;F;25-29 ans;Data;2;227409;939
+2023;Auvergne-Rhône-Alpes;F;30-34 ans;Data;6;253962;939
+2023;Auvergne-Rhône-Alpes;F;35-39 ans;Data;4;265347;939
+2023;Auvergne-Rhône-Alpes;F;40-44 ans;Data;2;269093;939
+2023;Auvergne-Rhône-Alpes;M;20-24 ans;Data;1;240349;939
+2023;Auvergne-Rhône-Alpes;M;25-29 ans;Data;5;230913;939
+2023;Auvergne-Rhône-Alpes;M;30-34 ans;Data;8;248724;939
+2023;Auvergne-Rhône-Alpes;M;35-39 ans;Data;5;254929;939
+2023;Auvergne-Rhône-Alpes;M;40-44 ans;Data;5;259368;939
+2023;Auvergne-Rhône-Alpes;M;45-49 ans;Data;1;254865;939
+2023;Auvergne-Rhône-Alpes;M;50-54 ans;Data;1;271042;939
+2023;Auvergne-Rhône-Alpes;M;60 ans ou plus;Data;1;978328;939
+2023;Auvergne-Rhône-Alpes;Non renseigne;25-29 ans;Data;6;;939
+2023;Auvergne-Rhône-Alpes;Non renseigne;30-34 ans;Data;8;;939
+2023;Auvergne-Rhône-Alpes;Non renseigne;35-39 ans;Data;3;;939
+2023;Auvergne-Rhône-Alpes;Non renseigne;40-44 ans;Data;6;;939
+2023;Auvergne-Rhône-Alpes;Non renseigne;45-49 ans;Data;2;;939
+2023;Auvergne-Rhône-Alpes;Non renseigne;50-54 ans;Data;2;;939
+2023;Auvergne-Rhône-Alpes;Non renseigne;55-59 ans;Data;1;;939
+2023;Bourgogne-Franche-Comté;F;30-34 ans;Data;2;75607;939
+2023;Bourgogne-Franche-Comté;F;45-49 ans;Data;1;84446;939
+2023;Bourgogne-Franche-Comté;M;25-29 ans;Data;3;71416;939
+2023;Bourgogne-Franche-Comté;M;30-34 ans;Data;1;76146;939
+2023;Bourgogne-Franche-Comté;M;35-39 ans;Data;1;79638;939
+2023;Bourgogne-Franche-Comté;M;40-44 ans;Data;1;83444;939
+2023;Bourgogne-Franche-Comté;M;45-49 ans;Data;1;83446;939
+2023;Bourgogne-Franche-Comté;M;55-59 ans;Data;2;93807;939
+2023;Bourgogne-Franche-Comté;Non renseigne;20-24 ans;Data;1;;939
+2023;Bourgogne-Franche-Comté;Non renseigne;30-34 ans;Data;1;;939
+2023;Bretagne;F;30-34 ans;Data;1;92742;939
+2023;Bretagne;F;35-39 ans;Data;1;100308;939
+2023;Bretagne;M;25-29 ans;Data;4;88364;939
+2023;Bretagne;M;30-34 ans;Data;1;93617;939
+2023;Bretagne;M;40-44 ans;Data;1;105237;939
+2023;Bretagne;M;45-49 ans;Data;1;106882;939
+2023;Bretagne;M;50-54 ans;Data;1;115362;939
+2023;Bretagne;Non renseigne;25-29 ans;Data;6;;939
+2023;Bretagne;Non renseigne;30-34 ans;Data;3;;939
+2023;Bretagne;Non renseigne;35-39 ans;Data;3;;939
+2023;Bretagne;Non renseigne;40-44 ans;Data;4;;939
+2023;Bretagne;Non renseigne;45-49 ans;Data;1;;939
+2023;Bretagne;Non renseigne;50-54 ans;Data;2;;939
+2023;Centre-Val de Loire;F;30-34 ans;Data;1;72125;939
+2023;Centre-Val de Loire;F;35-39 ans;Data;1;76632;939
+2023;Centre-Val de Loire;M;20-24 ans;Data;1;68938;939
+2023;Centre-Val de Loire;M;25-29 ans;Data;2;64319;939
+2023;Centre-Val de Loire;M;30-34 ans;Data;2;69682;939
+2023;Centre-Val de Loire;M;35-39 ans;Data;1;73080;939
+2023;Centre-Val de Loire;M;45-49 ans;Data;2;77595;939
+2023;Centre-Val de Loire;M;50-54 ans;Data;1;86220;939
+2023;Centre-Val de Loire;M;55-59 ans;Data;1;84737;939
+2023;Centre-Val de Loire;Non renseigne;25-29 ans;Data;2;;939
+2023;Centre-Val de Loire;Non renseigne;30-34 ans;Data;2;;939
+2023;Centre-Val de Loire;Non renseigne;40-44 ans;Data;1;;939
+2023;Centre-Val de Loire;Non renseigne;45-49 ans;Data;1;;939
+2023;DROM;F;35-39 ans;Data;1;;939
+2023;DROM;M;35-39 ans;Data;1;;939
+2023;DROM;M;50-54 ans;Data;1;;939
+2023;DROM;Non renseigne;20-24 ans;Data;1;;939
+2023;Grand Est;F;25-29 ans;Data;3;150914;939
+2023;Grand Est;F;35-39 ans;Data;1;174501;939
+2023;Grand Est;M;20-24 ans;Data;1;165962;939
+2023;Grand Est;M;25-29 ans;Data;5;156200;939
+2023;Grand Est;M;30-34 ans;Data;8;165680;939
+2023;Grand Est;M;35-39 ans;Data;3;169548;939
+2023;Grand Est;M;40-44 ans;Data;2;172810;939
+2023;Grand Est;M;50-54 ans;Data;1;186265;939
+2023;Grand Est;Non renseigne;20-24 ans;Data;1;;939
+2023;Grand Est;Non renseigne;25-29 ans;Data;4;;939
+2023;Grand Est;Non renseigne;30-34 ans;Data;4;;939
+2023;Grand Est;Non renseigne;40-44 ans;Data;1;;939
+2023;Grand Est;Non renseigne;45-49 ans;Data;1;;939
+2023;Grand Est;Non renseigne;50-54 ans;Data;1;;939
+2023;Hauts-de-France;F;20-24 ans;Data;1;181465;939
+2023;Hauts-de-France;F;25-29 ans;Data;4;167276;939
+2023;Hauts-de-France;F;30-34 ans;Data;5;181350;939
+2023;Hauts-de-France;F;35-39 ans;Data;2;193965;939
+2023;Hauts-de-France;F;40-44 ans;Data;1;194079;939
+2023;Hauts-de-France;F;45-49 ans;Data;1;187192;939
+2023;Hauts-de-France;F;50-54 ans;Data;2;196655;939
+2023;Hauts-de-France;M;20-24 ans;Data;2;187492;939
+2023;Hauts-de-France;M;25-29 ans;Data;5;166604;939
+2023;Hauts-de-France;M;30-34 ans;Data;4;177744;939
+2023;Hauts-de-France;M;35-39 ans;Data;4;186747;939
+2023;Hauts-de-France;M;40-44 ans;Data;4;189538;939
+2023;Hauts-de-France;M;45-49 ans;Data;1;185847;939
+2023;Hauts-de-France;M;50-54 ans;Data;2;193496;939
+2023;Hauts-de-France;M;55-59 ans;Data;1;186651;939
+2023;Hauts-de-France;M;60 ans ou plus;Data;1;666952;939
+2023;Hauts-de-France;Non renseigne;20-24 ans;Data;1;;939
+2023;Hauts-de-France;Non renseigne;25-29 ans;Data;2;;939
+2023;Hauts-de-France;Non renseigne;30-34 ans;Data;4;;939
+2023;Hauts-de-France;Non renseigne;35-39 ans;Data;6;;939
+2023;Hauts-de-France;Non renseigne;40-44 ans;Data;1;;939
+2023;Hauts-de-France;Non renseigne;45-49 ans;Data;1;;939
+2023;Hauts-de-France;Non renseigne;50-54 ans;Data;2;;939
+2023;Normandie;F;20-24 ans;Data;1;89147;939
+2023;Normandie;F;30-34 ans;Data;2;94304;939
+2023;Normandie;F;35-39 ans;Data;1;101301;939
+2023;Normandie;F;40-44 ans;Data;1;102550;939
+2023;Normandie;F;45-49 ans;Data;1;100451;939
+2023;Normandie;F;50-54 ans;Data;1;110586;939
+2023;Normandie;M;25-29 ans;Data;6;86765;939
+2023;Normandie;M;30-34 ans;Data;2;93525;939
+2023;Normandie;M;35-39 ans;Data;1;97527;939
+2023;Normandie;M;40-44 ans;Data;2;100239;939
+2023;Normandie;M;45-49 ans;Data;1;97880;939
+2023;Normandie;M;50-54 ans;Data;1;108188;939
+2023;Normandie;Non renseigne;30-34 ans;Data;3;;939
+2023;Normandie;Non renseigne;35-39 ans;Data;3;;939
+2023;Normandie;Non renseigne;40-44 ans;Data;1;;939
+2023;Normandie;Non renseigne;45-49 ans;Data;1;;939
+2023;Normandie;Non renseigne;50-54 ans;Data;1;;939
+2023;Nouvelle-Aquitaine;F;30-34 ans;Data;3;169643;939
+2023;Nouvelle-Aquitaine;F;35-39 ans;Data;1;181258;939
+2023;Nouvelle-Aquitaine;F;40-44 ans;Data;3;192386;939
+2023;Nouvelle-Aquitaine;F;45-49 ans;Data;3;193003;939
+2023;Nouvelle-Aquitaine;F;50-54 ans;Data;1;212228;939
+2023;Nouvelle-Aquitaine;M;20-24 ans;Data;1;166493;939
+2023;Nouvelle-Aquitaine;M;25-29 ans;Data;6;151786;939
+2023;Nouvelle-Aquitaine;M;30-34 ans;Data;8;164722;939
+2023;Nouvelle-Aquitaine;M;35-39 ans;Data;2;173767;939
+2023;Nouvelle-Aquitaine;M;40-44 ans;Data;1;184683;939
+2023;Nouvelle-Aquitaine;M;45-49 ans;Data;3;186993;939
+2023;Nouvelle-Aquitaine;Non renseigne;20-24 ans;Data;1;;939
+2023;Nouvelle-Aquitaine;Non renseigne;25-29 ans;Data;2;;939
+2023;Nouvelle-Aquitaine;Non renseigne;30-34 ans;Data;7;;939
+2023;Nouvelle-Aquitaine;Non renseigne;35-39 ans;Data;2;;939
+2023;Nouvelle-Aquitaine;Non renseigne;40-44 ans;Data;3;;939
+2023;Nouvelle-Aquitaine;Non renseigne;45-49 ans;Data;1;;939
+2023;Nouvelle-Aquitaine;Non renseigne;50-54 ans;Data;3;;939
+2023;Occitanie;F;30-34 ans;Data;4;176683;939
+2023;Occitanie;F;40-44 ans;Data;1;194300;939
+2023;Occitanie;F;55-59 ans;Data;1;210139;939
+2023;Occitanie;M;20-24 ans;Data;1;176233;939
+2023;Occitanie;M;25-29 ans;Data;1;162789;939
+2023;Occitanie;M;30-34 ans;Data;4;171167;939
+2023;Occitanie;M;35-39 ans;Data;2;175588;939
+2023;Occitanie;M;40-44 ans;Data;3;185223;939
+2023;Occitanie;M;45-49 ans;Data;3;182452;939
+2023;Occitanie;Non renseigne;25-29 ans;Data;5;;939
+2023;Occitanie;Non renseigne;30-34 ans;Data;5;;939
+2023;Occitanie;Non renseigne;35-39 ans;Data;1;;939
+2023;Occitanie;Non renseigne;40-44 ans;Data;2;;939
+2023;Occitanie;Non renseigne;55-59 ans;Data;1;;939
+2023;Pays de la Loire;F;25-29 ans;Data;1;101387;939
+2023;Pays de la Loire;F;40-44 ans;Data;1;125434;939
+2023;Pays de la Loire;F;45-49 ans;Data;1;122102;939
+2023;Pays de la Loire;F;50-54 ans;Data;1;128015;939
+2023;Pays de la Loire;M;25-29 ans;Data;2;103415;939
+2023;Pays de la Loire;M;30-34 ans;Data;7;112074;939
+2023;Pays de la Loire;M;35-39 ans;Data;3;116316;939
+2023;Pays de la Loire;M;45-49 ans;Data;3;122950;939
+2023;Pays de la Loire;M;50-54 ans;Data;2;127720;939
+2023;Pays de la Loire;M;55-59 ans;Data;1;120949;939
+2023;Pays de la Loire;Non renseigne;25-29 ans;Data;3;;939
+2023;Pays de la Loire;Non renseigne;30-34 ans;Data;2;;939
+2023;Pays de la Loire;Non renseigne;35-39 ans;Data;5;;939
+2023;Pays de la Loire;Non renseigne;40-44 ans;Data;1;;939
+2023;Pays de la Loire;Non renseigne;45-49 ans;Data;1;;939
+2023;Provence-Alpes-Côte d'Azur;F;25-29 ans;Data;2;133398;939
+2023;Provence-Alpes-Côte d'Azur;F;30-34 ans;Data;4;153822;939
+2023;Provence-Alpes-Côte d'Azur;F;35-39 ans;Data;1;161413;939
+2023;Provence-Alpes-Côte d'Azur;F;40-44 ans;Data;2;166780;939
+2023;Provence-Alpes-Côte d'Azur;F;50-54 ans;Data;1;178024;939
+2023;Provence-Alpes-Côte d'Azur;M;20-24 ans;Data;2;140210;939
+2023;Provence-Alpes-Côte d'Azur;M;25-29 ans;Data;7;131426;939
+2023;Provence-Alpes-Côte d'Azur;M;30-34 ans;Data;10;144587;939
+2023;Provence-Alpes-Côte d'Azur;M;35-39 ans;Data;2;149118;939
+2023;Provence-Alpes-Côte d'Azur;M;40-44 ans;Data;1;156764;939
+2023;Provence-Alpes-Côte d'Azur;M;45-49 ans;Data;1;153540;939
+2023;Provence-Alpes-Côte d'Azur;M;50-54 ans;Data;1;168712;939
+2023;Provence-Alpes-Côte d'Azur;M;55-59 ans;Data;1;168791;939
+2023;Provence-Alpes-Côte d'Azur;M;60 ans ou plus;Data;1;696838;939
+2023;Provence-Alpes-Côte d'Azur;Non renseigne;25-29 ans;Data;4;;939
+2023;Provence-Alpes-Côte d'Azur;Non renseigne;30-34 ans;Data;6;;939
+2023;Provence-Alpes-Côte d'Azur;Non renseigne;35-39 ans;Data;1;;939
+2023;Provence-Alpes-Côte d'Azur;Non renseigne;40-44 ans;Data;3;;939
+2023;Provence-Alpes-Côte d'Azur;Non renseigne;45-49 ans;Data;1;;939
+2023;Provence-Alpes-Côte d'Azur;Non renseigne;55-59 ans;Data;1;;939
+2023;Provence-Alpes-Côte d'Azur;Non renseigne;60 ans ou plus;Data;1;;939
+2023;Île-de-France;F;20-24 ans;Data;2;427737;939
+2023;Île-de-France;F;25-29 ans;Data;22;437192;939
+2023;Île-de-France;F;30-34 ans;Data;42;464314;939
+2023;Île-de-France;F;35-39 ans;Data;28;451905;939
+2023;Île-de-France;F;40-44 ans;Data;17;437677;939
+2023;Île-de-France;F;45-49 ans;Data;10;409558;939
+2023;Île-de-France;F;50-54 ans;Data;3;407088;939
+2023;Île-de-France;F;55-59 ans;Data;2;390975;939
+2023;Île-de-France;M;20-24 ans;Data;3;416143;939
+2023;Île-de-France;M;25-29 ans;Data;49;417066;939
+2023;Île-de-France;M;30-34 ans;Data;52;438217;939
+2023;Île-de-France;M;35-39 ans;Data;34;419535;939
+2023;Île-de-France;M;40-44 ans;Data;26;414697;939
+2023;Île-de-France;M;45-49 ans;Data;15;404740;939
+2023;Île-de-France;M;50-54 ans;Data;12;395238;939
+2023;Île-de-France;M;55-59 ans;Data;7;369436;939
+2023;Île-de-France;M;60 ans ou plus;Data;7;1159282;939
+2023;Île-de-France;Non renseigne;20-24 ans;Data;1;;939
+2023;Île-de-France;Non renseigne;25-29 ans;Data;42;;939
+2023;Île-de-France;Non renseigne;30-34 ans;Data;43;;939
+2023;Île-de-France;Non renseigne;35-39 ans;Data;30;;939
+2023;Île-de-France;Non renseigne;40-44 ans;Data;23;;939
+2023;Île-de-France;Non renseigne;45-49 ans;Data;15;;939
+2023;Île-de-France;Non renseigne;50-54 ans;Data;12;;939
+2023;Île-de-France;Non renseigne;55-59 ans;Data;9;;939
+2023;Île-de-France;Non renseigne;60 ans ou plus;Data;5;;939
+2024;Auvergne-Rhône-Alpes;F;20-24 ans;Data;1;229109;738
+2024;Auvergne-Rhône-Alpes;F;25-29 ans;Data;9;230279;738
+2024;Auvergne-Rhône-Alpes;F;30-34 ans;Data;1;251551;738
+2024;Auvergne-Rhône-Alpes;F;35-39 ans;Data;2;267546;738
+2024;Auvergne-Rhône-Alpes;F;45-49 ans;Data;1;251139;738
+2024;Auvergne-Rhône-Alpes;M;20-24 ans;Data;6;241352;738
+2024;Auvergne-Rhône-Alpes;M;25-29 ans;Data;17;233708;738
+2024;Auvergne-Rhône-Alpes;M;30-34 ans;Data;9;248470;738
+2024;Auvergne-Rhône-Alpes;M;35-39 ans;Data;7;258138;738
+2024;Auvergne-Rhône-Alpes;M;40-44 ans;Data;7;261660;738
+2024;Auvergne-Rhône-Alpes;M;45-49 ans;Data;6;249055;738
+2024;Auvergne-Rhône-Alpes;M;50-54 ans;Data;1;273015;738
+2024;Auvergne-Rhône-Alpes;M;60 ans ou plus;Data;2;996750;738
+2024;Auvergne-Rhône-Alpes;Non renseigne;35-39 ans;Data;1;;738
+2024;Auvergne-Rhône-Alpes;Non renseigne;40-44 ans;Data;2;;738
+2024;Auvergne-Rhône-Alpes;Non renseigne;50-54 ans;Data;1;;738
+2024;Auvergne-Rhône-Alpes;Non renseigne;55-59 ans;Data;1;;738
+2024;Bourgogne-Franche-Comté;F;40-44 ans;Data;1;84743;738
+2024;Bourgogne-Franche-Comté;M;20-24 ans;Data;4;78362;738
+2024;Bourgogne-Franche-Comté;M;25-29 ans;Data;3;72601;738
+2024;Bourgogne-Franche-Comté;M;30-34 ans;Data;3;75239;738
+2024;Bourgogne-Franche-Comté;M;35-39 ans;Data;1;79900;738
+2024;Bourgogne-Franche-Comté;M;40-44 ans;Data;1;83663;738
+2024;Bretagne;F;20-24 ans;Data;1;89502;738
+2024;Bretagne;F;25-29 ans;Data;2;85533;738
+2024;Bretagne;F;30-34 ans;Data;3;92365;738
+2024;Bretagne;F;35-39 ans;Data;1;101772;738
+2024;Bretagne;F;45-49 ans;Data;1;103417;738
+2024;Bretagne;M;20-24 ans;Data;3;97516;738
+2024;Bretagne;M;25-29 ans;Data;3;89853;738
+2024;Bretagne;M;30-34 ans;Data;3;93523;738
+2024;Bretagne;M;35-39 ans;Data;2;99723;738
+2024;Bretagne;M;40-44 ans;Data;4;105807;738
+2024;Bretagne;M;45-49 ans;Data;1;103461;738
+2024;Bretagne;M;55-59 ans;Data;1;111660;738
+2024;Bretagne;Non renseigne;25-29 ans;Data;1;;738
+2024;Bretagne;Non renseigne;30-34 ans;Data;1;;738
+2024;Bretagne;Non renseigne;35-39 ans;Data;1;;738
+2024;Centre-Val de Loire;F;25-29 ans;Data;1;64319;738
+2024;Centre-Val de Loire;F;35-39 ans;Data;1;77449;738
+2024;Centre-Val de Loire;F;40-44 ans;Data;1;79432;738
+2024;Centre-Val de Loire;M;20-24 ans;Data;2;69151;738
+2024;Centre-Val de Loire;M;25-29 ans;Data;2;65418;738
+2024;Centre-Val de Loire;M;30-34 ans;Data;3;68747;738
+2024;Centre-Val de Loire;M;35-39 ans;Data;5;73618;738
+2024;Centre-Val de Loire;M;40-44 ans;Data;3;76066;738
+2024;Centre-Val de Loire;M;45-49 ans;Data;1;75392;738
+2024;Centre-Val de Loire;M;50-54 ans;Data;1;86285;738
+2024;Centre-Val de Loire;M;55-59 ans;Data;1;84525;738
+2024;Centre-Val de Loire;Non renseigne;30-34 ans;Data;1;;738
+2024;DROM;M;25-29 ans;Data;1;;738
+2024;DROM;M;30-34 ans;Data;2;;738
+2024;DROM;M;40-44 ans;Data;1;;738
+2024;DROM;M;45-49 ans;Data;2;;738
+2024;Grand Est;F;20-24 ans;Data;1;152653;738
+2024;Grand Est;F;25-29 ans;Data;2;151302;738
+2024;Grand Est;F;30-34 ans;Data;2;163485;738
+2024;Grand Est;F;35-39 ans;Data;1;175809;738
+2024;Grand Est;F;50-54 ans;Data;1;188786;738
+2024;Grand Est;M;20-24 ans;Data;4;165252;738
+2024;Grand Est;M;25-29 ans;Data;8;157330;738
+2024;Grand Est;M;30-34 ans;Data;7;164129;738
+2024;Grand Est;M;35-39 ans;Data;9;170903;738
+2024;Grand Est;M;40-44 ans;Data;3;173027;738
+2024;Grand Est;M;45-49 ans;Data;5;165888;738
+2024;Grand Est;M;50-54 ans;Data;1;184599;738
+2024;Grand Est;M;55-59 ans;Data;1;185014;738
+2024;Grand Est;Non renseigne;30-34 ans;Data;1;;738
+2024;Grand Est;Non renseigne;35-39 ans;Data;3;;738
+2024;Grand Est;Non renseigne;45-49 ans;Data;3;;738
+2024;Grand Est;Non renseigne;50-54 ans;Data;1;;738
+2024;Hauts-de-France;F;25-29 ans;Data;1;168684;738
+2024;Hauts-de-France;F;30-34 ans;Data;2;178548;738
+2024;Hauts-de-France;F;35-39 ans;Data;2;194351;738
+2024;Hauts-de-France;M;20-24 ans;Data;7;187277;738
+2024;Hauts-de-France;M;25-29 ans;Data;10;167593;738
+2024;Hauts-de-France;M;30-34 ans;Data;5;174658;738
+2024;Hauts-de-France;M;35-39 ans;Data;7;187727;738
+2024;Hauts-de-France;M;40-44 ans;Data;2;190633;738
+2024;Hauts-de-France;M;45-49 ans;Data;4;180248;738
+2024;Hauts-de-France;M;50-54 ans;Data;2;195404;738
+2024;Hauts-de-France;M;55-59 ans;Data;3;184923;738
+2024;Hauts-de-France;Non renseigne;25-29 ans;Data;1;;738
+2024;Hauts-de-France;Non renseigne;30-34 ans;Data;1;;738
+2024;Hauts-de-France;Non renseigne;35-39 ans;Data;2;;738
+2024;Hauts-de-France;Non renseigne;45-49 ans;Data;1;;738
+2024;Hauts-de-France;Non renseigne;50-54 ans;Data;1;;738
+2024;Normandie;F;30-34 ans;Data;1;92971;738
+2024;Normandie;F;35-39 ans;Data;3;101555;738
+2024;Normandie;F;40-44 ans;Data;1;103530;738
+2024;Normandie;F;45-49 ans;Data;1;97518;738
+2024;Normandie;M;20-24 ans;Data;3;95488;738
+2024;Normandie;M;25-29 ans;Data;2;87545;738
+2024;Normandie;M;30-34 ans;Data;3;92519;738
+2024;Normandie;M;35-39 ans;Data;2;98730;738
+2024;Normandie;M;40-44 ans;Data;2;100620;738
+2024;Normandie;M;50-54 ans;Data;1;108524;738
+2024;Normandie;Non renseigne;30-34 ans;Data;1;;738
+2024;Normandie;Non renseigne;35-39 ans;Data;1;;738
+2024;Normandie;Non renseigne;45-49 ans;Data;1;;738
+2024;Nouvelle-Aquitaine;F;20-24 ans;Data;2;154708;738
+2024;Nouvelle-Aquitaine;F;25-29 ans;Data;3;152099;738
+2024;Nouvelle-Aquitaine;F;30-34 ans;Data;2;168301;738
+2024;Nouvelle-Aquitaine;F;35-39 ans;Data;4;183666;738
+2024;Nouvelle-Aquitaine;F;40-44 ans;Data;4;193950;738
+2024;Nouvelle-Aquitaine;F;50-54 ans;Data;2;214332;738
+2024;Nouvelle-Aquitaine;M;20-24 ans;Data;3;167150;738
+2024;Nouvelle-Aquitaine;M;25-29 ans;Data;11;153734;738
+2024;Nouvelle-Aquitaine;M;30-34 ans;Data;9;164004;738
+2024;Nouvelle-Aquitaine;M;35-39 ans;Data;4;176676;738
+2024;Nouvelle-Aquitaine;M;40-44 ans;Data;3;185604;738
+2024;Nouvelle-Aquitaine;M;45-49 ans;Data;2;181980;738
+2024;Nouvelle-Aquitaine;M;50-54 ans;Data;4;206914;738
+2024;Nouvelle-Aquitaine;M;55-59 ans;Data;1;201878;738
+2024;Nouvelle-Aquitaine;Non renseigne;35-39 ans;Data;2;;738
+2024;Occitanie;F;25-29 ans;Data;2;163043;738
+2024;Occitanie;F;30-34 ans;Data;5;175509;738
+2024;Occitanie;F;35-39 ans;Data;3;187446;738
+2024;Occitanie;F;40-44 ans;Data;3;195936;738
+2024;Occitanie;F;50-54 ans;Data;1;209112;738
+2024;Occitanie;M;20-24 ans;Data;3;177783;738
+2024;Occitanie;M;25-29 ans;Data;6;164730;738
+2024;Occitanie;M;30-34 ans;Data;11;171554;738
+2024;Occitanie;M;35-39 ans;Data;5;178331;738
+2024;Occitanie;M;40-44 ans;Data;4;185590;738
+2024;Occitanie;M;45-49 ans;Data;1;180337;738
+2024;Occitanie;M;50-54 ans;Data;2;200718;738
+2024;Occitanie;Non renseigne;25-29 ans;Data;3;;738
+2024;Occitanie;Non renseigne;30-34 ans;Data;1;;738
+2024;Occitanie;Non renseigne;35-39 ans;Data;1;;738
+2024;Occitanie;Non renseigne;40-44 ans;Data;1;;738
+2024;Pays de la Loire;F;25-29 ans;Data;1;103048;738
+2024;Pays de la Loire;F;30-34 ans;Data;4;110656;738
+2024;Pays de la Loire;F;40-44 ans;Data;2;126263;738
+2024;Pays de la Loire;F;50-54 ans;Data;1;129805;738
+2024;Pays de la Loire;M;20-24 ans;Data;1;115871;738
+2024;Pays de la Loire;M;25-29 ans;Data;4;105648;738
+2024;Pays de la Loire;M;30-34 ans;Data;3;111504;738
+2024;Pays de la Loire;M;35-39 ans;Data;1;117596;738
+2024;Pays de la Loire;M;40-44 ans;Data;2;124062;738
+2024;Pays de la Loire;M;55-59 ans;Data;1;121107;738
+2024;Pays de la Loire;Non renseigne;25-29 ans;Data;3;;738
+2024;Pays de la Loire;Non renseigne;30-34 ans;Data;1;;738
+2024;Pays de la Loire;Non renseigne;35-39 ans;Data;1;;738
+2024;Provence-Alpes-Côte d'Azur;F;25-29 ans;Data;7;135599;738
+2024;Provence-Alpes-Côte d'Azur;F;30-34 ans;Data;1;152482;738
+2024;Provence-Alpes-Côte d'Azur;F;35-39 ans;Data;1;163415;738
+2024;Provence-Alpes-Côte d'Azur;F;40-44 ans;Data;2;167875;738
+2024;Provence-Alpes-Côte d'Azur;F;45-49 ans;Data;1;159306;738
+2024;Provence-Alpes-Côte d'Azur;F;50-54 ans;Data;1;178005;738
+2024;Provence-Alpes-Côte d'Azur;F;55-59 ans;Data;1;183582;738
+2024;Provence-Alpes-Côte d'Azur;M;25-29 ans;Data;3;133845;738
+2024;Provence-Alpes-Côte d'Azur;M;30-34 ans;Data;9;142919;738
+2024;Provence-Alpes-Côte d'Azur;M;35-39 ans;Data;9;151759;738
+2024;Provence-Alpes-Côte d'Azur;M;40-44 ans;Data;2;156917;738
+2024;Provence-Alpes-Côte d'Azur;M;45-49 ans;Data;3;152441;738
+2024;Provence-Alpes-Côte d'Azur;M;50-54 ans;Data;3;168554;738
+2024;Provence-Alpes-Côte d'Azur;M;55-59 ans;Data;2;168575;738
+2024;Provence-Alpes-Côte d'Azur;Non renseigne;25-29 ans;Data;1;;738
+2024;Provence-Alpes-Côte d'Azur;Non renseigne;30-34 ans;Data;1;;738
+2024;Provence-Alpes-Côte d'Azur;Non renseigne;35-39 ans;Data;2;;738
+2024;Île-de-France;F;20-24 ans;Data;3;427035;738
+2024;Île-de-France;F;25-29 ans;Data;32;443743;738
+2024;Île-de-France;F;30-34 ans;Data;24;459192;738
+2024;Île-de-France;F;35-39 ans;Data;15;455079;738
+2024;Île-de-France;F;40-44 ans;Data;5;439141;738
+2024;Île-de-France;F;45-49 ans;Data;9;406382;738
+2024;Île-de-France;F;50-54 ans;Data;2;408392;738
+2024;Île-de-France;F;55-59 ans;Data;1;387164;738
+2024;Île-de-France;M;20-24 ans;Data;10;415708;738
+2024;Île-de-France;M;25-29 ans;Data;49;423707;738
+2024;Île-de-France;M;30-34 ans;Data;31;435474;738
+2024;Île-de-France;M;35-39 ans;Data;29;424579;738
+2024;Île-de-France;M;40-44 ans;Data;21;412624;738
+2024;Île-de-France;M;45-49 ans;Data;13;401052;738
+2024;Île-de-France;M;50-54 ans;Data;8;399422;738
+2024;Île-de-France;M;55-59 ans;Data;1;367112;738
+2024;Île-de-France;M;60 ans ou plus;Data;1;1180487;738
+2024;Île-de-France;Non renseigne;25-29 ans;Data;1;;738
+2024;Île-de-France;Non renseigne;30-34 ans;Data;9;;738
+2024;Île-de-France;Non renseigne;35-39 ans;Data;8;;738
+2024;Île-de-France;Non renseigne;40-44 ans;Data;8;;738
+2024;Île-de-France;Non renseigne;45-49 ans;Data;1;;738
+2024;Île-de-France;Non renseigne;50-54 ans;Data;2;;738
+2024;Île-de-France;Non renseigne;55-59 ans;Data;4;;738
+2025;Auvergne-Rhône-Alpes;F;20-24 ans;Data;3;229471;951
+2025;Auvergne-Rhône-Alpes;F;25-29 ans;Data;5;231531;951
+2025;Auvergne-Rhône-Alpes;F;30-34 ans;Data;4;250779;951
+2025;Auvergne-Rhône-Alpes;F;35-39 ans;Data;4;269068;951
+2025;Auvergne-Rhône-Alpes;F;40-44 ans;Data;2;274129;951
+2025;Auvergne-Rhône-Alpes;F;45-49 ans;Data;1;251756;951
+2025;Auvergne-Rhône-Alpes;F;50-54 ans;Data;2;272818;951
+2025;Auvergne-Rhône-Alpes;F;55-59 ans;Data;2;266580;951
+2025;Auvergne-Rhône-Alpes;M;20-24 ans;Data;9;243068;951
+2025;Auvergne-Rhône-Alpes;M;25-29 ans;Data;18;235447;951
+2025;Auvergne-Rhône-Alpes;M;30-34 ans;Data;16;249204;951
+2025;Auvergne-Rhône-Alpes;M;35-39 ans;Data;6;259958;951
+2025;Auvergne-Rhône-Alpes;M;40-44 ans;Data;11;262980;951
+2025;Auvergne-Rhône-Alpes;M;45-49 ans;Data;2;247438;951
+2025;Auvergne-Rhône-Alpes;M;50-54 ans;Data;1;272223;951
+2025;Auvergne-Rhône-Alpes;M;55-59 ans;Data;1;261726;951
+2025;Auvergne-Rhône-Alpes;M;60 ans ou plus;Data;2;1015863;951
+2025;Auvergne-Rhône-Alpes;Non renseigne;20-24 ans;Data;1;;951
+2025;Auvergne-Rhône-Alpes;Non renseigne;30-34 ans;Data;2;;951
+2025;Auvergne-Rhône-Alpes;Non renseigne;40-44 ans;Data;1;;951
+2025;Bourgogne-Franche-Comté;F;25-29 ans;Data;1;69372;951
+2025;Bourgogne-Franche-Comté;F;30-34 ans;Data;2;73041;951
+2025;Bourgogne-Franche-Comté;F;35-39 ans;Data;2;82046;951
+2025;Bourgogne-Franche-Comté;F;45-49 ans;Data;1;80679;951
+2025;Bourgogne-Franche-Comté;M;20-24 ans;Data;4;78498;951
+2025;Bourgogne-Franche-Comté;M;25-29 ans;Data;2;73734;951
+2025;Bourgogne-Franche-Comté;M;30-34 ans;Data;4;74506;951
+2025;Bourgogne-Franche-Comté;M;35-39 ans;Data;1;79640;951
+2025;Bourgogne-Franche-Comté;M;45-49 ans;Data;1;79969;951
+2025;Bourgogne-Franche-Comté;M;55-59 ans;Data;1;93347;951
+2025;Bretagne;F;30-34 ans;Data;4;92821;951
+2025;Bretagne;F;40-44 ans;Data;1;107887;951
+2025;Bretagne;F;45-49 ans;Data;3;102788;951
+2025;Bretagne;F;60 ans ou plus;Data;1;597567;951
+2025;Bretagne;M;20-24 ans;Data;3;97837;951
+2025;Bretagne;M;25-29 ans;Data;3;91559;951
+2025;Bretagne;M;30-34 ans;Data;4;93638;951
+2025;Bretagne;M;35-39 ans;Data;4;100783;951
+2025;Bretagne;M;40-44 ans;Data;4;105656;951
+2025;Bretagne;M;50-54 ans;Data;1;117257;951
+2025;Bretagne;M;55-59 ans;Data;1;111552;951
+2025;Bretagne;Non renseigne;60 ans ou plus;Data;1;;951
+2025;Centre-Val de Loire;F;25-29 ans;Data;3;65000;951
+2025;Centre-Val de Loire;F;30-34 ans;Data;3;69792;951
+2025;Centre-Val de Loire;F;35-39 ans;Data;1;77328;951
+2025;Centre-Val de Loire;F;40-44 ans;Data;2;79739;951
+2025;Centre-Val de Loire;F;45-49 ans;Data;2;75728;951
+2025;Centre-Val de Loire;F;50-54 ans;Data;1;87594;951
+2025;Centre-Val de Loire;M;25-29 ans;Data;6;66381;951
+2025;Centre-Val de Loire;M;30-34 ans;Data;2;68087;951
+2025;Centre-Val de Loire;M;35-39 ans;Data;7;73969;951
+2025;Centre-Val de Loire;M;40-44 ans;Data;3;76229;951
+2025;Centre-Val de Loire;M;45-49 ans;Data;2;73979;951
+2025;Centre-Val de Loire;M;50-54 ans;Data;1;85331;951
+2025;Centre-Val de Loire;M;60 ans ou plus;Data;2;355150;951
+2025;DROM;F;30-34 ans;Data;1;;951
+2025;DROM;F;40-44 ans;Data;1;;951
+2025;DROM;F;45-49 ans;Data;1;;951
+2025;DROM;M;25-29 ans;Data;2;;951
+2025;DROM;M;30-34 ans;Data;3;;951
+2025;DROM;M;35-39 ans;Data;2;;951
+2025;DROM;M;40-44 ans;Data;3;;951
+2025;DROM;M;60 ans ou plus;Data;1;;951
+2025;DROM;Non renseigne;25-29 ans;Data;1;;951
+2025;DROM;Non renseigne;35-39 ans;Data;1;;951
+2025;Grand Est;F;25-29 ans;Data;2;151291;951
+2025;Grand Est;F;30-34 ans;Data;4;161238;951
+2025;Grand Est;F;35-39 ans;Data;4;176033;951
+2025;Grand Est;F;40-44 ans;Data;1;178994;951
+2025;Grand Est;F;50-54 ans;Data;1;185202;951
+2025;Grand Est;F;55-59 ans;Data;1;187497;951
+2025;Grand Est;M;20-24 ans;Data;3;165443;951
+2025;Grand Est;M;25-29 ans;Data;7;158544;951
+2025;Grand Est;M;30-34 ans;Data;6;161770;951
+2025;Grand Est;M;35-39 ans;Data;10;171373;951
+2025;Grand Est;M;40-44 ans;Data;2;174132;951
+2025;Grand Est;M;45-49 ans;Data;2;164164;951
+2025;Grand Est;M;50-54 ans;Data;3;181982;951
+2025;Grand Est;M;55-59 ans;Data;1;182488;951
+2025;Grand Est;Non renseigne;20-24 ans;Data;1;;951
+2025;Grand Est;Non renseigne;30-34 ans;Data;1;;951
+2025;Grand Est;Non renseigne;35-39 ans;Data;1;;951
+2025;Grand Est;Non renseigne;45-49 ans;Data;1;;951
+2025;Grand Est;Non renseigne;50-54 ans;Data;2;;951
+2025;Grand Est;Non renseigne;55-59 ans;Data;1;;951
+2025;Hauts-de-France;F;20-24 ans;Data;1;180304;951
+2025;Hauts-de-France;F;25-29 ans;Data;2;170004;951
+2025;Hauts-de-France;F;30-34 ans;Data;2;175804;951
+2025;Hauts-de-France;F;35-39 ans;Data;1;193135;951
+2025;Hauts-de-France;F;40-44 ans;Data;2;195192;951
+2025;Hauts-de-France;F;55-59 ans;Data;2;189025;951
+2025;Hauts-de-France;M;20-24 ans;Data;3;186607;951
+2025;Hauts-de-France;M;25-29 ans;Data;11;168759;951
+2025;Hauts-de-France;M;30-34 ans;Data;12;171899;951
+2025;Hauts-de-France;M;35-39 ans;Data;10;187990;951
+2025;Hauts-de-France;M;40-44 ans;Data;4;190945;951
+2025;Hauts-de-France;M;45-49 ans;Data;4;177828;951
+2025;Hauts-de-France;M;50-54 ans;Data;2;195138;951
+2025;Hauts-de-France;Non renseigne;30-34 ans;Data;3;;951
+2025;Hauts-de-France;Non renseigne;50-54 ans;Data;1;;951
+2025;Normandie;F;50-54 ans;Data;2;109319;951
+2025;Normandie;F;55-59 ans;Data;1;110493;951
+2025;Normandie;M;25-29 ans;Data;2;88363;951
+2025;Normandie;M;30-34 ans;Data;4;92033;951
+2025;Normandie;M;35-39 ans;Data;2;99446;951
+2025;Normandie;M;40-44 ans;Data;6;100495;951
+2025;Normandie;M;50-54 ans;Data;2;107029;951
+2025;Normandie;Non renseigne;30-34 ans;Data;1;;951
+2025;Normandie;Non renseigne;35-39 ans;Data;1;;951
+2025;Normandie;Non renseigne;45-49 ans;Data;1;;951
+2025;Nouvelle-Aquitaine;F;30-34 ans;Data;5;167873;951
+2025;Nouvelle-Aquitaine;F;35-39 ans;Data;2;184929;951
+2025;Nouvelle-Aquitaine;F;40-44 ans;Data;4;194897;951
+2025;Nouvelle-Aquitaine;F;50-54 ans;Data;2;213480;951
+2025;Nouvelle-Aquitaine;F;55-59 ans;Data;1;212230;951
+2025;Nouvelle-Aquitaine;M;20-24 ans;Data;6;167548;951
+2025;Nouvelle-Aquitaine;M;25-29 ans;Data;6;156062;951
+2025;Nouvelle-Aquitaine;M;30-34 ans;Data;7;164152;951
+2025;Nouvelle-Aquitaine;M;35-39 ans;Data;5;178959;951
+2025;Nouvelle-Aquitaine;M;40-44 ans;Data;1;186005;951
+2025;Nouvelle-Aquitaine;M;45-49 ans;Data;3;180710;951
+2025;Nouvelle-Aquitaine;M;50-54 ans;Data;1;205818;951
+2025;Nouvelle-Aquitaine;M;55-59 ans;Data;3;201904;951
+2025;Nouvelle-Aquitaine;Non renseigne;25-29 ans;Data;2;;951
+2025;Nouvelle-Aquitaine;Non renseigne;35-39 ans;Data;1;;951
+2025;Nouvelle-Aquitaine;Non renseigne;45-49 ans;Data;1;;951
+2025;Nouvelle-Aquitaine;Non renseigne;60 ans ou plus;Data;1;;951
+2025;Occitanie;F;20-24 ans;Data;1;169997;951
+2025;Occitanie;F;25-29 ans;Data;6;164543;951
+2025;Occitanie;F;30-34 ans;Data;4;176222;951
+2025;Occitanie;F;35-39 ans;Data;3;188441;951
+2025;Occitanie;F;40-44 ans;Data;2;196937;951
+2025;Occitanie;F;45-49 ans;Data;3;187634;951
+2025;Occitanie;F;50-54 ans;Data;2;207751;951
+2025;Occitanie;M;20-24 ans;Data;6;179965;951
+2025;Occitanie;M;25-29 ans;Data;12;167524;951
+2025;Occitanie;M;30-34 ans;Data;7;171837;951
+2025;Occitanie;M;35-39 ans;Data;9;180495;951
+2025;Occitanie;M;40-44 ans;Data;2;185901;951
+2025;Occitanie;M;45-49 ans;Data;5;180443;951
+2025;Occitanie;M;50-54 ans;Data;1;199338;951
+2025;Occitanie;M;55-59 ans;Data;4;197637;951
+2025;Occitanie;Non renseigne;30-34 ans;Data;1;;951
+2025;Occitanie;Non renseigne;45-49 ans;Data;1;;951
+2025;Pays de la Loire;F;25-29 ans;Data;1;104230;951
+2025;Pays de la Loire;F;30-34 ans;Data;2;110380;951
+2025;Pays de la Loire;F;35-39 ans;Data;1;120736;951
+2025;Pays de la Loire;F;45-49 ans;Data;3;119576;951
+2025;Pays de la Loire;F;55-59 ans;Data;2;123710;951
+2025;Pays de la Loire;M;20-24 ans;Data;1;117003;951
+2025;Pays de la Loire;M;25-29 ans;Data;3;108301;951
+2025;Pays de la Loire;M;30-34 ans;Data;4;111252;951
+2025;Pays de la Loire;M;35-39 ans;Data;3;118768;951
+2025;Pays de la Loire;M;40-44 ans;Data;3;123539;951
+2025;Pays de la Loire;M;45-49 ans;Data;3;120204;951
+2025;Pays de la Loire;M;50-54 ans;Data;1;130757;951
+2025;Pays de la Loire;Non renseigne;30-34 ans;Data;1;;951
+2025;Provence-Alpes-Côte d'Azur;F;20-24 ans;Data;2;132017;951
+2025;Provence-Alpes-Côte d'Azur;F;25-29 ans;Data;3;137745;951
+2025;Provence-Alpes-Côte d'Azur;F;30-34 ans;Data;9;150811;951
+2025;Provence-Alpes-Côte d'Azur;F;35-39 ans;Data;2;165497;951
+2025;Provence-Alpes-Côte d'Azur;F;40-44 ans;Data;5;168724;951
+2025;Provence-Alpes-Côte d'Azur;F;45-49 ans;Data;2;159828;951
+2025;Provence-Alpes-Côte d'Azur;F;50-54 ans;Data;2;175563;951
+2025;Provence-Alpes-Côte d'Azur;F;55-59 ans;Data;1;181916;951
+2025;Provence-Alpes-Côte d'Azur;M;20-24 ans;Data;4;138637;951
+2025;Provence-Alpes-Côte d'Azur;M;25-29 ans;Data;10;136368;951
+2025;Provence-Alpes-Côte d'Azur;M;30-34 ans;Data;14;141704;951
+2025;Provence-Alpes-Côte d'Azur;M;35-39 ans;Data;11;153608;951
+2025;Provence-Alpes-Côte d'Azur;M;40-44 ans;Data;5;157493;951
+2025;Provence-Alpes-Côte d'Azur;M;45-49 ans;Data;5;152654;951
+2025;Provence-Alpes-Côte d'Azur;M;50-54 ans;Data;3;167592;951
+2025;Provence-Alpes-Côte d'Azur;M;55-59 ans;Data;1;167189;951
+2025;Provence-Alpes-Côte d'Azur;Non renseigne;25-29 ans;Data;1;;951
+2025;Provence-Alpes-Côte d'Azur;Non renseigne;35-39 ans;Data;2;;951
+2025;Provence-Alpes-Côte d'Azur;Non renseigne;45-49 ans;Data;1;;951
+2025;Île-de-France;F;20-24 ans;Data;6;426753;951
+2025;Île-de-France;F;25-29 ans;Data;34;451160;951
+2025;Île-de-France;F;30-34 ans;Data;33;454546;951
+2025;Île-de-France;F;35-39 ans;Data;35;456217;951
+2025;Île-de-France;F;40-44 ans;Data;17;440577;951
+2025;Île-de-France;F;45-49 ans;Data;10;406519;951
+2025;Île-de-France;F;50-54 ans;Data;6;407009;951
+2025;Île-de-France;F;55-59 ans;Data;1;383539;951
+2025;Île-de-France;M;20-24 ans;Data;27;415907;951
+2025;Île-de-France;M;25-29 ans;Data;51;432042;951
+2025;Île-de-France;M;30-34 ans;Data;50;432616;951
+2025;Île-de-France;M;35-39 ans;Data;38;428984;951
+2025;Île-de-France;M;40-44 ans;Data;14;412044;951
+2025;Île-de-France;M;45-49 ans;Data;20;397746;951
+2025;Île-de-France;M;50-54 ans;Data;10;400926;951
+2025;Île-de-France;M;55-59 ans;Data;5;364275;951
+2025;Île-de-France;M;60 ans ou plus;Data;3;1202559;951
+2025;Île-de-France;Non renseigne;25-29 ans;Data;8;;951
+2025;Île-de-France;Non renseigne;30-34 ans;Data;7;;951
+2025;Île-de-France;Non renseigne;35-39 ans;Data;8;;951
+2025;Île-de-France;Non renseigne;40-44 ans;Data;1;;951
+2025;Île-de-France;Non renseigne;45-49 ans;Data;3;;951
+2025;Île-de-France;Non renseigne;50-54 ans;Data;4;;951
